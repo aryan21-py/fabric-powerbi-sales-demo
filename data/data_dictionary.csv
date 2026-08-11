@@ -1,0 +1,22 @@
+File,Column,Description
+sales.csv,OrderID,Unique identifier for each sales transaction
+sales.csv,OrderDate,Date on which the order was placed
+sales.csv,ProductID,Foreign key to products.csv
+sales.csv,CustomerID,Foreign key to customers.csv
+sales.csv,RegionID,Foreign key to regions.csv
+sales.csv,Quantity,Number of units sold
+sales.csv,SalesAmount,Revenue after discount
+sales.csv,CostAmount,Estimated cost of goods sold
+sales.csv,DiscountPct,Discount applied to the transaction
+products.csv,ProductID,Unique product identifier
+products.csv,ProductName,Product name
+products.csv,Category,Product category
+products.csv,Brand,Product brand
+products.csv,UnitPrice,Base selling price per unit
+customers.csv,CustomerID,Unique customer identifier
+customers.csv,CustomerName,Customer name
+customers.csv,CustomerSegment,"Enterprise, SMB, or Consumer"
+customers.csv,RegionID,Foreign key to regions.csv
+regions.csv,RegionID,Unique region identifier
+regions.csv,RegionName,Sales region
+regions.csv,RegionCity,Representative city for the region

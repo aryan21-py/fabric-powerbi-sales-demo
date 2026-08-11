@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Brand,UnitPrice
+P001,Contoso Business Laptop 1,Laptops,Contoso,61500
+P002,Northwind Gaming Laptop 2,Laptops,Northwind,151000
+P003,Fabrikam Ultrabook 3,Laptops,Fabrikam,135000
+P004,Adventure Works Student Laptop 4,Laptops,Adventure Works,107000
+P005,ProTech Business Laptop 5,Laptops,ProTech,106500
+P006,Contoso Gaming Laptop 6,Laptops,Contoso,162000
+P007,Northwind Ultrabook 7,Laptops,Northwind,61000
+P008,Fabrikam Student Laptop 8,Laptops,Fabrikam,141000
+P009,Adventure Works Business Laptop 9,Laptops,Adventure Works,76000
+P010,ProTech Gaming Laptop 10,Laptops,ProTech,62000
+P011,Contoso 4K Monitor 1,Monitors,Contoso,28000
+P012,Northwind Full HD Monitor 2,Monitors,Northwind,44500
+P013,Fabrikam Ultrawide Monitor 3,Monitors,Fabrikam,35500
+P014,Adventure Works Gaming Monitor 4,Monitors,Adventure Works,36500
+P015,ProTech 4K Monitor 5,Monitors,ProTech,35000
+P016,Contoso Full HD Monitor 6,Monitors,Contoso,37500
+P017,Northwind Ultrawide Monitor 7,Monitors,Northwind,27500
+P018,Fabrikam Gaming Monitor 8,Monitors,Fabrikam,13500
+P019,Adventure Works 4K Monitor 9,Monitors,Adventure Works,39500
+P020,ProTech Full HD Monitor 10,Monitors,ProTech,25000
+P021,Contoso Wireless Mouse 1,Accessories,Contoso,6500
+P022,Northwind Mechanical Keyboard 2,Accessories,Northwind,5000
+P023,Fabrikam USB-C Hub 3,Accessories,Fabrikam,3000
+P024,Adventure Works Webcam 4,Accessories,Adventure Works,11500
+P025,ProTech Laptop Stand 5,Accessories,ProTech,9500
+P026,Contoso Wireless Mouse 6,Accessories,Contoso,8000
+P027,Northwind Mechanical Keyboard 7,Accessories,Northwind,5500
+P028,Fabrikam USB-C Hub 8,Accessories,Fabrikam,10000
+P029,Adventure Works Webcam 9,Accessories,Adventure Works,7000
+P030,ProTech Laptop Stand 10,Accessories,ProTech,6000
+P031,Contoso Laser Printer 1,Printers,Contoso,17500
+P032,Northwind Inkjet Printer 2,Printers,Northwind,12000
+P033,Fabrikam All-in-One Printer 3,Printers,Fabrikam,9000
+P034,Adventure Works Laser Printer 4,Printers,Adventure Works,20000
+P035,ProTech Inkjet Printer 5,Printers,ProTech,27500
+P036,Contoso All-in-One Printer 6,Printers,Contoso,8000
+P037,Northwind Laser Printer 7,Printers,Northwind,27000
+P038,Fabrikam Inkjet Printer 8,Printers,Fabrikam,26000
+P039,Adventure Works All-in-One Printer 9,Printers,Adventure Works,13500
+P040,ProTech Laser Printer 10,Printers,ProTech,21500
+P041,Contoso Wi-Fi Router 1,Networking,Contoso,6000
+P042,Northwind Network Switch 2,Networking,Northwind,17500
+P043,Fabrikam Mesh Wi-Fi System 3,Networking,Fabrikam,16500
+P044,Adventure Works Wi-Fi Router 4,Networking,Adventure Works,9500
+P045,ProTech Network Switch 5,Networking,ProTech,4000
+P046,Contoso Mesh Wi-Fi System 6,Networking,Contoso,21500
+P047,Northwind Wi-Fi Router 7,Networking,Northwind,11500
+P048,Fabrikam Network Switch 8,Networking,Fabrikam,20000
+P049,Adventure Works Mesh Wi-Fi System 9,Networking,Adventure Works,16000
+P050,ProTech Wi-Fi Router 10,Networking,ProTech,18000
